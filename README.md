@@ -1,1 +1,5 @@
 # Water_Quality_Prediction
+
+The project focuses on predicting water quality using advanced machine learning techniques. By analyzing various water quality parameters such as pH, dissolved oxygen, turbidity, and contaminants, the model aims to provide accurate predictions of water quality levels. This predictive capability will enable timely interventions and effective management strategies to ensure safe and clean water for various uses. The project involves data collection, preprocessing, model training, and validation, leveraging both historical data and real-time monitoring to enhance prediction accuracy and reliability.
+
+The goal of this project is to develop a predictive model for water quality using machine learning algorithms. By leveraging data on various water quality parameters, we aim to predict the overall quality of water and identify potential contamination. This project employs one popular machine learning technique: the Random Forest algorithm. These algorithm are chosen for their robustness and effectiveness in classification tasks.
